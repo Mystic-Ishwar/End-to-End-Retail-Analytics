@@ -4,6 +4,11 @@ An end-to-end Retail Sales Analytics project built using Python, SQL, and Power 
 
 ---
 
+## Dataset
+
+Dataset: ECommerce Data Analysis  
+Source: https://www.kaggle.com/datasets/mmohaiminulislam/ecommerce-data-analysis
+
 ##  Project Overview
 
 This project demonstrates the complete data analytics workflow:
